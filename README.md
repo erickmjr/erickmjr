@@ -9,6 +9,8 @@
 🚀 Habilidades e Interesses:
 
 •  💻 Possuo conhecimento básico em Python.
+
 •  🌐 Estou aprendendo HTML5, CSS3 e 
 JavaScript (ES6).
+
 •  🎲 Possuo conhecimento básico em MySQL.
