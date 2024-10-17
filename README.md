@@ -10,7 +10,6 @@
 
 •  💻 Possuo conhecimento básico em Python.
 
-•  🌐 Estou aprendendo HTML5, CSS3 e 
-JavaScript (ES6).
+•  🌐 Estou aprendendo HTML5, CSS3 e JavaScript (jQuery).
 
 •  🎲 Possuo conhecimento básico em MySQL.
