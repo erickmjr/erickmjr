@@ -10,7 +10,6 @@
 
 •  💻 Possuo conhecimento básico em Python.
 
-•  🌐 Estou aprendendo HTML5, CSS3 e JavaScript (jQuery).
+•  🌐 Estou aprendendo HTML5, CSS3, JavaScript (jQuery) e Bootstrap.
 
-•  🎲 Possuo conhecimento básico em MySQL.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickmjr)](https://github.com/anuraghazra/github-readme-stats)
+
