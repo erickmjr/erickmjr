@@ -8,7 +8,7 @@
 
 🚀 Habilidades e Interesses:
 
-•  💻 Possuo conhecimento básico em Python.
+•  💻 Possuo conhecimento básico em Java, Python e Figma.
 
 •  🌐 Estou aprendendo HTML5, CSS3, JavaScript (jQuery) e Bootstrap.
 
