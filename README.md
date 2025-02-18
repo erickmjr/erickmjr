@@ -8,4 +8,4 @@
 
 🚀 Habilidades e Interesses:
 
-•  💻 Possuo conhecimento em Bootstrap, Less, Sass, jQuery, Gulp, Grunt, HTML5, Javascript, CSS3.
+•  💻 Possuo conhecimento em Bootstrap, Less, Sass, jQuery, Gulp, Grunt, HTML5, Javascript, e CSS3.
