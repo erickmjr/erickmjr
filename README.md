@@ -1,6 +1,6 @@
 # Olá, sou Érick Mello Junior! 👋
 
-Sou um entusiasta de desenvolvimento front-end, atualmente cursando **Sistemas de Informação** no IFBA e **Engenheiro Front-End** pela EBAC. Adoro criar soluções web interativas, responsivas e que proporcionem uma ótima experiência ao usuário. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Sou estudante de desenvolvimento front-end, atualmente cursando **Sistemas de Informação** no IFBA e  realizando o **curso profissionalizante: Engenheiro Front-End** pela EBAC. Adoro criar soluções web interativas, responsivas e que proporcionem uma ótima experiência ao usuário. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## 🛠️ Habilidades Técnicas
 
