@@ -1,11 +1,32 @@
-👋 Olá, eu sou Érick Mello!
+# Olá, sou Érick Mello Junior! 👋
 
-🔭 Comecei a estudar programação há uns meses e estou animado com tudo que tenho aprendido. Atualmente, estou focado em explorar a área de desenvolvimento Web, com HTML5, CSS3, JavaScript e outras tecnologias, mas já me aventurei com linguagem Python, C, Java e com MySQL anteriormente. Estudante de Sistemas de Informação no IFBA, estou em busca da minha primeira oportunidade como estagiário na área.
+Sou um entusiasta de desenvolvimento front-end, atualmente cursando **Sistemas de Informação** no IFBA e **Engenheiro Front-End** pela EBAC. Adoro criar soluções web interativas, responsivas e que proporcionem uma ótima experiência ao usuário. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-🎓 Atualmente cursando Sistemas de Informação no IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia).
+## 🛠️ Habilidades Técnicas
 
-📧 Meu contato: erickmellojr@gmail.com
+- **Linguagens:** JavaScript, HTML5, CSS3, Python, C, Java  
+- **Frameworks e Bibliotecas:** jQuery, Bootstrap, Sass, Less  
+- **Ferramentas:** Git, GitHub, Figma, Canva  
+- **Práticas:** SEO, E-mail Marketing, CSS: BEM e SMACSS  
+- **Conhecimentos:** UX/UI Design, Programação Orientada a Objetos (Java)  
 
-🚀 Habilidades e Interesses:
+## 🚀 Projetos Destacados
 
-•  💻 Possuo conhecimento em Bootstrap, Less, Sass, jQuery, Gulp, Grunt, HTML5, Javascript, e CSS3.
+Aqui no GitHub, você encontrará alguns dos meus projetos, como landing pages responsivas e sites interativos, desenvolvidos com tecnologias modernas como **HTML5, CSS3, JavaScript, jQuery, Gulp, Grunt, Sass e Less**. Todos os projetos são pensados para serem visualmente atraentes e funcionais em diferentes dispositivos.
+
+## 📚 Formação
+
+- **Sistemas de Informação** – IFBA (em andamento)  
+- **Curso profissionalizante: Engenheiro Front-End** – EBAC (em andamento)  
+
+## 🌍 Idiomas
+
+- **Inglês:** Avançado  
+
+## 📫 Vamos conversar?
+
+Se você quiser colaborar em algum projeto ou apenas trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato!  
+
+- **Email:** erickmellojr@gmail.com  
+- **LinkedIn:** [Érick Mello Junior](https://www.linkedin.com/in/erickmellojr)  
+- **GitHub:** [Érick Mello Junior](https://github.com/erickmellojr)  
