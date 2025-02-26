@@ -28,5 +28,5 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, como landing pages r
 Se você quiser colaborar em algum projeto ou apenas trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato!  
 
 - **Email:** erickmellojr@gmail.com  
-- **LinkedIn:** [Érick Mello Junior](https://www.linkedin.com/in/erickmellojr)  
-- **GitHub:** [Érick Mello Junior](https://github.com/erickmellojr)  
+- **LinkedIn:** [Érick Mello Junior](https://br.linkedin.com/in/erick-mello-junior)  
+- **GitHub:** [Érick Mello Junior](https://github.com/erickmjr)  
