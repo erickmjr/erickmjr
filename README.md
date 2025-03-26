@@ -12,7 +12,7 @@ Sou estudante de desenvolvimento front-end, atualmente cursando **Sistemas de In
 
 ## 🚀 Projetos Destacados
 
-Aqui no GitHub, você encontrará alguns dos meus projetos, como landing pages responsivas e sites interativos, desenvolvidos com tecnologias modernas como **HTML5, CSS3, JavaScript, jQuery, Gulp, Grunt, Sass e Less**. Todos os projetos são pensados para serem visualmente atraentes e funcionais em diferentes dispositivos.
+Aqui no GitHub, você encontrará alguns dos meus projetos, como landing pages responsivas e sites interativos, desenvolvidos com tecnologias modernas como **HTML5, CSS3, JavaScript, jQuery, Bootstrap, Gulp, Grunt, Sass e Less**. Todos os projetos são pensados para serem visualmente atraentes e funcionais em diferentes dispositivos.
 
 ## 📚 Formação
 
