@@ -5,7 +5,7 @@ Sou estudante de desenvolvimento front-end, atualmente cursando **Sistemas de In
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens:** JavaScript (ES6), HTML5, CSS3, Python, C e Java  
-- **Frameworks e Bibliotecas:** jQuery, Bootstrap, Sass, Less, Gulp, Grunt e Parcel  
+- **Frameworks e Bibliotecas:** React, jQuery, Bootstrap, SCSS, Less, Gulp, Grunt e Parcel  
 - **Ferramentas:** Git, GitHub, Figma, Canva  
 - **Práticas:** SEO, E-mail Marketing, CSS: BEM e SMACSS  
 - **Conhecimentos:** UX/UI Design, Programação Orientada a Objetos (Java)  
