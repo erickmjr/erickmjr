@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Érick Mello Junior</h1>
+<h1 align="center">Olá! Eu sou Érick Mello Junior👨‍💻</h1>
 
 <p align="center">
   🚀 Estudante de <strong>Sistemas de Informação</strong> no IFBA  
