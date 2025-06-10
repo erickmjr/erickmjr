@@ -1,16 +1,16 @@
-<h1 align="center">Fala dev! 👨‍💻 Eu sou Érick Mello Junior</h1>
+<h1 align="center">Olá! Eu sou Érick Mello Junior</h1>
 
 <p align="center">
   🚀 Estudante de <strong>Sistemas de Informação</strong> no IFBA  
   <br/>
-  🎯 Em formação como <strong>Engenheiro Front-End</strong> pela EBAC  
+  🎯 Finalizando o curso de formação em: <strong>Engenheiro Front-End</strong> pela EBAC  
   <br/>
   💡 Curioso por natureza, viciado em transformar ideias em código
 </p>
 
 ---
 
-## 🧰 Stack que coloco pra jogo
+## 🧰 Tecnologias que utilizo!
 
 <div align="center">
 
@@ -25,8 +25,6 @@
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grunt-FBA919?style=flat-square&logo=grunt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 
 </div>
 
@@ -59,7 +57,7 @@
 ## 🎓 Formação
 
 - 💻 **Sistemas de Informação** – IFBA (em andamento)
-- 🧠 **Engenheiro Front-End** – EBAC (em andamento)
+- 🧠 **Curso profissionalizanteÇ Engenheiro Front-End** – EBAC (em andamento)
 
 ---
 
