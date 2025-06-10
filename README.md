@@ -15,6 +15,7 @@
 <div align="center">
 
 <!-- Linguagens -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -50,7 +51,7 @@
 
 [![Lumos Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=Lumos-LandingPage&theme=dark)](https://github.com/erickmjr/Lumos-LandingPage)
 
-> Você vai encontrar por aqui **landing pages**, **interfaces interativas**, e protótipos pensados com foco em **responsividade** e **acessibilidade** — tudo feito com amor, café e uma pitada de perfeccionismo.
+> Você vai encontrar por aqui **landing pages**, **interfaces interativas**, e protótipos pensados com foco em **responsividade** e **acessibilidade**!
 
 ---
 
@@ -76,7 +77,3 @@
 [<img src="https://img.shields.io/badge/GitHub-erickmjr-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/erickmjr)
 
 </div>
-
----
-
-<p align="center"><i>“Code é o meio, não o fim.” — Eu mesmo, depois de alguns commits</i></p>
