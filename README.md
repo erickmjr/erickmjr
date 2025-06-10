@@ -60,7 +60,7 @@
 ## 🎓 Formação
 
 - 💻 **Sistemas de Informação** – IFBA (em andamento)
-- 🧠 **Curso profissionalizanteÇ Engenheiro Front-End** – EBAC (em andamento)
+- 🧠 **Curso profissionalizante: Engenheiro Front-End** – EBAC (em andamento)
 
 ---
 
