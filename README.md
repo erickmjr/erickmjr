@@ -7,3 +7,6 @@
 
 //linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickmjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+//[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://br.linkedin.com/in/erick-mello-junior)
