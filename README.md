@@ -51,6 +51,7 @@
 
 ## 💼 Projetos em Destaque
 
+[![Lista de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=lista_de_contatos&theme=dark)](https://github.com/erickmjr/lista_de_contatos)
 [![Lumos Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=Lumos-LandingPage&theme=dark)](https://github.com/erickmjr/Lumos-LandingPage)
 
 > Você vai encontrar por aqui **landing pages**, **interfaces interativas**, e protótipos pensados com foco em **responsividade** e **acessibilidade**!
