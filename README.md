@@ -5,7 +5,6 @@
   <br/>
   🎯 Finalizando o curso de formação em: <strong>Engenheiro Front-End</strong> pela EBAC  
   <br/>
-  💡 Curioso por natureza, viciado em transformar ideias em código
 </p>
 
 ---
