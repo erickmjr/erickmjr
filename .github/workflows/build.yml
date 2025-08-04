@@ -1,25 +1,10 @@
-name: Generate 3D Contribution Graph
-
-on:
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Run 3D Contribution Generator
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: erickmjr
-
       - name: Commit and push generated files
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions[bot]@users.noreply.github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add profile-3d-contrib/
           if git diff --cached --quiet; then
             echo "No changes to commit"
