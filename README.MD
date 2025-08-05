@@ -36,7 +36,7 @@
 
 <!-- Estatísticas -->
 <a href="https://github.com/erickmjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickmjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickmjr&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/erickmjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmjr&layout=compact&theme=dark" alt="Top Langs"/>
