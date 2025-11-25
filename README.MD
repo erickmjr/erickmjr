@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Estudante de <strong>Sistemas de Informação</strong> no IFBA<br/>
-  🎯 Finalizando o curso de formação em <strong>Engenheiro Front-End</strong> pela EBAC
+  🎯 Estagiário de Desenvolvimento Web (TI)
 </p>
 
 ---
