@@ -15,7 +15,6 @@ Venho do front-end (React/Next.js) e caminho para full-stack júnior, unindo a b
 de back-end à experiência de interface que já trago.
 
 - **Foco atual:** modelagem no DynamoDB (single-table design, GSIs/LSIs) e infra com Serverless Framework
-- **TCC:** Clean Architecture no modelo serverless/FaaS — impacto em desacoplamento, testabilidade e portabilidade
 
 ---
 
