@@ -88,8 +88,6 @@ Sistemas de Informação no **IFBA** · Engenheiro Front-End pela **EBAC** · �
 
 <img src="https://streak-stats.demolab.com?user=erickmjr&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickmjr&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=100&section=footer" width="100%"/>
