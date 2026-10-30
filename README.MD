@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=560&lines=Node.js+%2B+TypeScript+%2B+AWS+Serverless;Lambda+%7C+SQS+%7C+SNS+%7C+EventBridge+%7C+DynamoDB;Clean+Architecture+%26+DDD" alt="Stack em destaque"/>
 
-<a href="https://www.linkedin.com/in/erickmellojr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/erick-mello-junior"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:erickmellojr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portf贸lio"/></a>
 
@@ -66,11 +66,10 @@ Sistemas de Informa莽茫o no **IFBA** 路 Engenheiro Front-End pela **EBAC** 路 馃
 
 ## 馃殌 Projeto em destaque
 
-<!-- Troque o link pelo reposit贸rio do projeto -->
 <table>
   <tr>
     <td>
-      <h3>馃洅 <a href="https://github.com/erickmjr?tab=repositories">API de Bestsellers da Amazon</a></h3>
+      <h3>馃洅 <a href="https://github.com/erickmjr/amazon-bestsellers-api">API de Bestsellers da Amazon</a></h3>
       <p>API serverless com o top 3 de mais vendidos por categoria da Amazon Brasil, servida a partir de snapshots no DynamoDB.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
