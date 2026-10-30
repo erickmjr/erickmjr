@@ -70,7 +70,7 @@ Sistemas de Informação no **IFBA** · Engenheiro Front-End pela **EBAC** · �
 <table>
   <tr>
     <td>
-      <h3>🛒 <a href="https://github.com/erickmellojr?tab=repositories">API de Bestsellers da Amazon</a></h3>
+      <h3>🛒 <a href="https://github.com/erickmjr?tab=repositories">API de Bestsellers da Amazon</a></h3>
       <p>API serverless com o top 3 de mais vendidos por categoria da Amazon Brasil, servida a partir de snapshots no DynamoDB.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
@@ -86,9 +86,9 @@ Sistemas de Informação no **IFBA** · Engenheiro Front-End pela **EBAC** · �
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=erickmellojr&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=erickmjr&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickmellojr&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickmjr&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
 
 </div>
 
