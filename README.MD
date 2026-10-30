@@ -45,8 +45,8 @@ Sistemas de Informação no **IFBA** · Engenheiro Front-End pela **EBAC** · �
       <p>Integrações serverless na AWS com Clean Architecture e DDD.</p>
       <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EventBridge-E7157B?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EventBridge-E7157B?style=flat-square&logo=amazoneventbridge&logoColor=white"/>
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
