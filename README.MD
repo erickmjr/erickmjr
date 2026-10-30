@@ -1,99 +1,92 @@
-<h1 align="center">Érick Mello Junior</h1>
-
-<p align="center">
-  Desenvolvedor Back-End · Node.js · TypeScript · Serverless (AWS)<br/>
-  Estágio na BGC Brasil — time de Integrações<br/>
-  Sistemas de Informação · IFBA — Feira de Santana/BA
-</p>
-
----
-
-### Sobre
-
-Back-end com foco em stack serverless na AWS, aplicando Clean Architecture e DDD.
-Venho do front-end (React/Next.js) e caminho para full-stack júnior, unindo a base
-de back-end à experiência de interface que já trago.
-
-- **Foco atual:** modelagem no DynamoDB (single-table design, GSIs/LSIs) e infra com Serverless Framework
-
----
-
-### Stack
-
-**Back-End & Linguagens**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**AWS Serverless**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![SNS](https://img.shields.io/badge/Amazon_SNS-E7157B?style=flat-square&logo=amazonsns&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-
-**Dados & Ferramentas**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(WSL)-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Front-End**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-
----
-
-### GitHub
-
 <div align="center">
 
-<a href="https://github.com/erickmjr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=erickmjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/erickmjr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmjr&layout=compact&theme=dark&langs_count=8" alt="Top Langs"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+%C3%89rick+%F0%9F%91%8B;Back-End+Developer+%40+BGC+Brasil;Serverless+na+AWS+%7C+Node.js+%2B+TypeScript;Clean+Architecture+%26+DDD+no+dia+a+dia" alt="Apresentação animada" />
+
+<p>
+  <a href="https://www.linkedin.com/in/erickmellojr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:erickmellojr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+</p>
 
 </div>
 
----
+<!-- Confira se a URL do LinkedIn está certa e troque o "#" do Portfólio pelo link real -->
 
-### Projetos
+## Sobre mim
 
-[![StudyFlow](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=StudyFlow&theme=dark)](https://github.com/erickmjr/StudyFlow)
-[![Lista de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=lista_de_contatos&theme=dark)](https://github.com/erickmjr/lista_de_contatos)
+Sou desenvolvedor back-end em formação, hoje estagiário no time de **Integrações da BGC Brasil**, onde construo e sustento serviços **serverless na AWS** com Node.js e TypeScript. Meu trabalho diário gira em torno de fazer sistemas conversarem de forma confiável, com filas, eventos e funções Lambda que precisam funcionar em produção mesmo quando algo do outro lado falha.
 
-**StudyFlow** — API em Node/Express com Prisma e PostgreSQL. Os repositórios reúnem também sistemas em Java, interfaces em React/TS e desafios de código.
+Gosto de código que continua fácil de mudar daqui a seis meses, por isso aplico **Clean Architecture e DDD** para manter domínio, infraestrutura e entrega desacoplados e testáveis. Curso o 6º semestre de **Sistemas de Informação no IFBA** e tenho formação em **Engenharia Front-End pela EBAC**, o que me dá repertório para atravessar a stack inteira quando o problema pede.
 
----
+🎯 Meu foco agora é me tornar um **desenvolvedor Full-Stack** sólido, com o back-end como base.
 
-### 🎓 Formação
+## No que estou trabalhando
 
-- **Sistemas de Informação** — IFBA (Feira de Santana/BA) · conclusão prevista para **jul/2027**
-- **Engenheiro Front-End** — EBAC · formação complementar
+🔗 Fluxos de integração entre sistemas com **SQS, SNS e EventBridge**, incluindo investigação e correção de falhas em processamento assíncrono  
+⚡ Funções **Lambda** e infraestrutura como código com **Serverless Framework**  
+🗄️ Persistência com **DynamoDB em modelagem single-table** e **RDS/Aurora** via **Prisma**  
+🛡️ Validação de contratos de dados com **Zod**  
+👀 Code review, cerimônias Scrum e suporte a incidentes em produção
 
-### 🌎 Idiomas
+## Stack
 
-- 🇧🇷 Português — nativo
-- 🇺🇸 Inglês — avançado (uso no dia a dia técnico e nos estudos)
+**Back-end e Cloud**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,aws,dynamodb,postgres,prisma,python&perline=9" alt="Back-end e Cloud"/>
+</p>
 
-### 📬 Bora trocar uma ideia?
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vue,sass&perline=9" alt="Front-end"/>
+</p>
+
+**Testes, DevOps e Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,docker,githubactions,git,github,vite,figma&perline=9" alt="Testes e Ferramentas"/>
+</p>
+
+<sub>Também trabalho com Zod, Serverless Framework, SQS, SNS, EventBridge, Playwright, Puppeteer, Zustand e React Testing Library.</sub>
+
+## Experiência
+
+**BGC Brasil** · Estagiário de Desenvolvimento Back-End · *03/2026 até hoje*  
+Time de Integrações. Desenvolvimento e sustentação de serviços serverless na AWS (Lambda, SQS, SNS, EventBridge, DynamoDB, RDS), com Clean Architecture e DDD.
+
+**Contas Contabilidade** · Estagiário de Desenvolvimento e Suporte · *09/2025 a 02/2026*  
+Time de Tecnologia e Inovação. APIs REST com Node.js e Express, front-end em React e Next.js, e automações com Playwright para coleta de dados e validação de rotinas internas.
+
+## Projeto em destaque
+
+### 🛒 API de Bestsellers da Amazon Brasil
+<!-- Troque o link abaixo pelo repositório do projeto -->
+[**Ver repositório →**](https://github.com/erickmellojr?tab=repositories)
+
+API REST serverless que expõe o top 3 de mais vendidos por categoria da Amazon Brasil a partir de **snapshots persistidos**, sem depender de consultas em tempo real ao site de origem. Arquitetura em camadas (handlers, controllers, services e repositories), com o scraper rodando localmente e alimentando o banco.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+
+## GitHub em números
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-erickmellojr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickmellojr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Érick%20Mello%20Junior-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/erick-mello-junior)
-[![GitHub](https://img.shields.io/badge/GitHub-erickmjr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickmjr)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=erickmellojr&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmellojr&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&langs_count=6" alt="Linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com?user=erickmellojr&hide_border=true&theme=transparent&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Sequência de contribuições"/>
+
+</div>
+
+<div align="center">
+
+📍 Feira de Santana, Bahia · Aberto a conversar sobre back-end, serverless e arquitetura
 
 </div>
